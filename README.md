@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims at creating a data pipeline, extracting data from Raw csv file of vehicle collision data and transforming using **python script** and loading data to **AWS S3** to see data in much structered form.
+This project aims at creating a data pipeline, extracting data from Raw csv file of vehicle collision data and transforming using **python script** and loading data to **AWS S3** to see data in much structered form. Which is can be used to gain insight on the different reasons of vehicle collision.
 
 ## Data Architecture
 
