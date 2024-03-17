@@ -44,8 +44,7 @@ This project aims at creating a data pipeline, extracting data from Raw csv file
 + ### Generate AWS Glue crawlers to crawl CSV files and create tables
   
     - AWS Glue Crawlers are helpful in crawling the data from the source and then storing the data inside the databases.
-    - Here three crawlers for artists, albums and songs data were created in order to created three tables of them.
-    - Now since tables of these three datasets are created we can easily do our analysis.
+    - Here a crawler for extracting data from S3 was created in order to create table.
       
 + ### Build analytical tables using Amazon Athena
   
